@@ -25,7 +25,7 @@ jobs:
               shell: bash
               run: |
                   mkdir -p output
-                  ./self-reposcope --token ${{ secrets.REPOSCOPE_TOKEN }} --excluded-languages "Markdown"
+                  ./self-reposcope --token ${{ secrets.REPOSCOPE_TOKEN }} --excluded-languages "Markdown" > /dev/null
 
             - name: Update last updated date
               shell: bash
