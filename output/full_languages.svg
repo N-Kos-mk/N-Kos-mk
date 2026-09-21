@@ -54,43 +54,43 @@ tspan {
 </defs>
 <rect width="370" height="10" x="20" y="60" rx="5" ry="5" fill='#ccc' />
 <g clip-path="url(#roundedClip)">
-    <rect x="20" y="60" width="126" height="10" fill="#f1e05a"> <title>JavaScript 34.04%</title> </rect>
-    <rect x="146" y="60" width="106" height="10" fill="#e34c26"> <title>HTML 28.65%</title> </rect>
-    <rect x="252" y="60" width="65" height="10" fill="#3572A5"> <title>Python 17.52%</title> </rect>
-    <rect x="317" y="60" width="42" height="10" fill="#3178c6"> <title>TypeScript 11.30%</title> </rect>
-    <rect x="359" y="60" width="21" height="10" fill="#663399"> <title>CSS 5.55%</title> </rect>
-    <rect x="380" y="60" width="4" height="10" fill="#3D6117"> <title>TeX 1.21%</title> </rect>
-    <rect x="384" y="60" width="3" height="10" fill="#89e051"> <title>Shell 0.92%</title> </rect>
-    <rect x="387" y="60" width="1" height="10" fill="#DA5B0B"> <title>Jupyter Notebook 0.34%</title> </rect>
-    <rect x="388" y="60" width="1" height="10" fill="#012456"> <title>PowerShell 0.25%</title> </rect>
+    <rect x="20" y="60" width="120" height="10" fill="#f1e05a"> <title>JavaScript 32.53%</title> </rect>
+    <rect x="140" y="60" width="101" height="10" fill="#e34c26"> <title>HTML 27.38%</title> </rect>
+    <rect x="241" y="60" width="76" height="10" fill="#3572A5"> <title>Python 20.44%</title> </rect>
+    <rect x="317" y="60" width="40" height="10" fill="#3178c6"> <title>TypeScript 10.80%</title> </rect>
+    <rect x="357" y="60" width="20" height="10" fill="#663399"> <title>CSS 5.38%</title> </rect>
+    <rect x="377" y="60" width="7" height="10" fill="#3D6117"> <title>TeX 1.78%</title> </rect>
+    <rect x="384" y="60" width="3" height="10" fill="#89e051"> <title>Shell 0.88%</title> </rect>
+    <rect x="387" y="60" width="1" height="10" fill="#DA5B0B"> <title>Jupyter Notebook 0.33%</title> </rect>
+    <rect x="388" y="60" width="1" height="10" fill="#012456"> <title>PowerShell 0.24%</title> </rect>
     <rect x="389" y="60" width="0" height="10" fill="#fcb32c"> <title>MDX 0.13%</title> </rect>
-    <rect x="389" y="60" width="0" height="10" fill="#198CE7"> <title>R 0.04%</title> </rect>
+    <rect x="389" y="60" width="0" height="10" fill="#198CE7"> <title>R 0.08%</title> </rect>
     <rect x="389" y="60" width="0" height="10" fill="#C1F12E"> <title>Batchfile 0.03%</title> </rect>
     <rect x="389" y="60" width="0" height="10" fill="#15dcdc"> <title>VBScript 0.01%</title> </rect>
 </g>
 <g id="lang_legend">
 <circle cx="30" cy="100" r="6" fill="#f1e05a" />
-<text x="46" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>JavaScript</tspan> 34.04%</text>
+<text x="46" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>JavaScript</tspan> 32.53%</text>
 <circle cx="225" cy="100" r="6" fill="#e34c26" />
-<text x="241" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>HTML</tspan> 28.65%</text>
+<text x="241" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>HTML</tspan> 27.38%</text>
 <circle cx="30" cy="124" r="6" fill="#3572A5" />
-<text x="46" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Python</tspan> 17.52%</text>
+<text x="46" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Python</tspan> 20.44%</text>
 <circle cx="225" cy="124" r="6" fill="#3178c6" />
-<text x="241" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>TypeScript</tspan> 11.30%</text>
+<text x="241" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>TypeScript</tspan> 10.80%</text>
 <circle cx="30" cy="148" r="6" fill="#663399" />
-<text x="46" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>CSS</tspan> 5.55%</text>
+<text x="46" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>CSS</tspan> 5.38%</text>
 <circle cx="225" cy="148" r="6" fill="#3D6117" />
-<text x="241" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>TeX</tspan> 1.21%</text>
+<text x="241" y="152" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>TeX</tspan> 1.78%</text>
 <circle cx="30" cy="172" r="6" fill="#89e051" />
-<text x="46" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Shell</tspan> 0.92%</text>
+<text x="46" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Shell</tspan> 0.88%</text>
 <circle cx="225" cy="172" r="6" fill="#DA5B0B" />
-<text x="241" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Jupyter Notebook</tspan> 0.34%</text>
+<text x="241" y="176" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Jupyter Notebook</tspan> 0.33%</text>
 <circle cx="30" cy="196" r="6" fill="#012456" />
-<text x="46" y="200" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>PowerShell</tspan> 0.25%</text>
+<text x="46" y="200" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>PowerShell</tspan> 0.24%</text>
 <circle cx="225" cy="196" r="6" fill="#fcb32c" />
 <text x="241" y="200" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>MDX</tspan> 0.13%</text>
 <circle cx="30" cy="220" r="6" fill="#198CE7" />
-<text x="46" y="224" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>R</tspan> 0.04%</text>
+<text x="46" y="224" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>R</tspan> 0.08%</text>
 <circle cx="225" cy="220" r="6" fill="#C1F12E" />
 <text x="241" y="224" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Batchfile</tspan> 0.03%</text>
 <circle cx="30" cy="244" r="6" fill="#15dcdc" />
